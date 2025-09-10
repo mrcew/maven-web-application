@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">meghana</h1>
+<h1 align="center">Meghana</h1>
 <h1 align="center">KJDFKLGD LKFGDKL FGKDKLF GDKLFG DLKFGKLD FKDKLFG KDJFGLDRIPTJEIOFKLVMD GREKLGJJDF DGKREGDF KLFDJ </h1>
 <P>THIS I SIISSDKFM O PARAGRAPH OF INFORMATION </P>
 <hr>
